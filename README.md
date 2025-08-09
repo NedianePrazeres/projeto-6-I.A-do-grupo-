@@ -1,2 +1,22 @@
 # projeto-6-I.A-do-grupo-
 estrutura inicial do projeto
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Assistente IA</title>
+</head>
+<body>
+  <!-- Área para exibir mensagens -->
+  <div id="chat-messages"></div>
+
+  <!-- Campo de entrada do usuário -->
+  <input type="text" id="user-input" placeholder="Digite sua mensagem...">
+
+  <!-- Botão para enviar mensagem -->
+  <button id="send-button">Enviar</button>
+</body>
+</html>
+
